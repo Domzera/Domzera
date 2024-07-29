@@ -9,7 +9,7 @@
 ## 👋 Olá!
 
 Sempre gostei de programar e mesmo antes de entar no curso Analise e Desenvolvimento de Sistemas, na FATEC Guaratinguetá, eu aprendi (fuçando) algumas poucas coisas por conta da curiosidade. Quando entrei na faculdade eu tive contato com varias opções no mundo do desenvolviemnto e foi dificil escolher uma dentre as várias maravilhas que vi.
-Tive certeze que era o que eu queria para meu futuro e agora que sinto que estou preparado para ser um desemvolvedor de profissão ( e não só de coração) eu gostaria de no alge dos meus 44 anos ter uma oportunidade e poder demonstrar o que aprendi e poder continuar a aprender mais e mais e fazer parte de um grupo que esteja fazendo a diferença no mercado de desenvolviemto.
+Tive certeze que era o que eu queria para meu futuro e agora que sinto que estou preparado para ser um desenvolvedor de profissão ( e não só de coração) eu gostaria de no alge dos meus 44 anos ter uma oportunidade e poder demonstrar o que aprendi e poder continuar a aprender mais e mais e fazer parte de um grupo que esteja fazendo a diferença no mercado de desenvolviemto.
 
 ## 🚀 Habilidades Técnicas
 
