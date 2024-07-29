@@ -15,16 +15,16 @@ Tive certeze que era o que eu queria para meu futuro e agora que sinto que estou
 
 - Linguagens de Programação: 
 
-    [![My Skills](https://skillicons.dev/icons?i=java,c)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=java,cs)](https://skillicons.dev)
 - Frameworks e Bibliotecas: 
 
-    [![My Skills](https://skillicons.dev/icons?i=react,bootstrap,wordpress,codeigniter)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=react,bootstrap,wordpress,dotnet)](https://skillicons.dev) -  CodeIgniter
 - Dados: 
 
-    [![My Skills](https://skillicons.dev/icons?i=mysql,sql,sqlserver)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=mysql,firebase)](https://skillicons.dev)
 - Ferramentas e Tecnologias: 
 
-    [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,microsoftvisualstudiocode)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,flutter,vscode,androidstudio)](https://skillicons.dev)
 - Desenvolvimento Web:
 
     [![My Skills](https://skillicons.dev/icons?i=php,html,css)](https://skillicons.dev)
