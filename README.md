@@ -15,19 +15,19 @@ Tive certeze que era o que eu queria para meu futuro e agora que sinto que estou
 
 - Linguagens de Programação: 
 
-    [![My Skills](https://skillicons.dev/icons?i=java,cs)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
 - Frameworks e Bibliotecas: 
 
-    [![My Skills](https://skillicons.dev/icons?i=react,bootstrap,wordpress,dotnet)](https://skillicons.dev) -  CodeIgniter
+    [![My Skills](https://skillicons.dev/icons?i=react,bootstrap,dotnet)](https://skillicons.dev)
 - Dados: 
 
-    [![My Skills](https://skillicons.dev/icons?i=mysql,firebase)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 - Ferramentas e Tecnologias: 
 
-    [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,flutter,vscode,androidstudio)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,vscode)](https://skillicons.dev)
 - Desenvolvimento Web:
 
-    [![My Skills](https://skillicons.dev/icons?i=php,html,css)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
 ## 🏆 Projetos Destacados
 
