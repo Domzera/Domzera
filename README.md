@@ -18,7 +18,7 @@ Tive certeze que era o que eu queria para meu futuro e agora que sinto que estou
     [![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
 - Frameworks e Bibliotecas: 
 
-    [![My Skills](https://skillicons.dev/icons?i=react,bootstrap,dotnet)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=angular,bootstrap,dotnet)](https://skillicons.dev)
 - Dados: 
 
     [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
