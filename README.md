@@ -21,7 +21,7 @@ Tive certeze que era o que eu queria para meu futuro e agora que sinto que estou
     [![My Skills](https://skillicons.dev/icons?i=angular,bootstrap,dotnet)](https://skillicons.dev)
 - Dados: 
 
-    [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql)](https://skillicons.dev)
 - Ferramentas e Tecnologias: 
 
     [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,vscode)](https://skillicons.dev)
