@@ -31,7 +31,7 @@ Tive certeze que era o que eu queria para meu futuro e agora que sinto que estou
 
 ## 🏆 Projetos Destacados
 
-- [Tutorial - Dojo-Blog - ](https://github.com/Domzera/Tutoria-dojo-blog): Esse foi um projeto do Teddy Smyth. é um tutorial de como fazer o código de um blog, nele eu coloquei em pratica o MVC e também manipulação de imagens no BD. # ASP.NET Core MVC 2022 .NET 6 - MVC . foi um tutorial ministrado pelo Teddy Smyth no YouTube.
+- [Tutorial - Dojo-Blog - ](https://github.com/Domzera/Tutoria-dojo-blog): Esse foi um projeto do Teddy Smyth. é um tutorial de como fazer o código de um blog, nele eu coloquei em pratica o conhecimento em REACT, usamos a ferramenta VS Code para desenvolver foi um tutorial ministrado pelo Teddy Smyth no YouTube.
 - [RunGrouWebApp ](https://github.com/Domzera/RunGroupWebApp): Esse é um WebApp para formar grupos de pessoas que querem correr juntas, aqui eu usei MVC com Interface e Repositórios, esse foi meu primeiro passo para enteder e criar APIs. Foi um tutorial ministrado pelo Teddy Smyth no YouTube também.
 - [LocalWise](https://github.com/Domzera/LocalWise): Meu projeto de conclusão de curso na faculdade, aqui eu usei tudo o que aprendi durante o curso e nas pesquisas extras para fazer ele funcionar. O projeto acabou ficando muito grande para terminar mas eu fui capaz de demonstrar para os professores da banca o que eu aprendi e o que eu fui buscar fora da faculdade para chegar ao resultado final. Apesar de não ter terminado esse é o projeto que eu mais gosto.
 
