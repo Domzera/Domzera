@@ -1,42 +1,89 @@
 <div align="center">
-  <img src="https://media.istockphoto.com/id/1470350413/vector/software-developer-working-with-computers.jpg?s=612x612&w=0&k=20&c=rMDiFqhfe3PUzikjGeCuSl-x4YlXFCcnM_psO4MlOU0=" alt="Software Developer">
+  <img src="./profile-banner.svg" alt="Luiz Célio Gomes Filho banner" width="100%" />
 </div>
 
-# Luiz Célio Gomes Filho
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-[Luiz_Gomes]-blue?logo=linkedin)](https://www.linkedin.com/in/luiz-cgomes/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-luizceliogf-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/luizceliogf)
+&nbsp;
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Backend%20Developer-2ea44f?style=flat)
 
-## 👋 Olá!
+</div>
 
-Sempre gostei de programar e mesmo antes de entar no curso Analise e Desenvolvimento de Sistemas, na FATEC Guaratinguetá, eu aprendi (fuçando) algumas poucas coisas por conta da curiosidade. Quando entrei na faculdade eu tive contato com varias opções no mundo do desenvolviemnto e foi dificil escolher uma dentre as várias coisas legais que eu vi.
-Tive certeze do que eu queria para meu futuro quando começamos a desenvolver o TCC.
-Eu gostaria de ter uma oportunidade concreta para poder demonstrar meu interesse e poder continuar a aprender mais e mais, fazendo parte de um grupo que gosta de desafios e pensa diferente.
+---
 
-## 🚀 Habilidades Técnicas
+## 🇧🇷 Português
 
-- Linguagens de Programação: 
+### 👋 Sobre mim
 
-    [![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
-- Frameworks e Bibliotecas: 
+Sempre gostei de programar, e mesmo antes de entrar no curso de Análise e Desenvolvimento de Sistemas, na FATEC Guaratinguetá, já aprendia (fuçando) algumas coisas por conta própria. Na faculdade, tive contato com várias áreas do desenvolvimento e foi difícil escolher uma entre tantas coisas interessantes — mas tive certeza do caminho que queria seguir quando começamos a desenvolver o TCC.
 
-    [![My Skills](https://skillicons.dev/icons?i=angular,dotnet)](https://skillicons.dev)
-- Dados: 
+Concilio a transição de carreira com a rotina de pai de duas filhas — o que só reforça minha disciplina, gestão de tempo e comprometimento com o que me proponho a aprender.
 
-    [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql)](https://skillicons.dev)
-- Ferramentas e Tecnologias: 
+Hoje busco uma oportunidade concreta para aplicar o que já aprendi e, principalmente, **aprender ainda mais junto de um time de desenvolvedores mais experientes** — trabalhar perto de gente que já passou pelos desafios que eu ainda vou enfrentar é o tipo de ambiente onde cresço mais rápido.
 
-    [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,vscode)](https://skillicons.dev)
-- Desenvolvimento Web:
+### 📚 Em constante estudo
 
-    [![My Skills](https://skillicons.dev/icons?i=html,css,typescrity)](https://skillicons.dev)
+Estou sempre com algum curso ou projeto pessoal em andamento para aprofundar a stack abaixo — recentemente explorei **Native AOT compilation** e **Minimal APIs** no .NET, e sigo evoluindo em Angular e Flutter.
 
-## 🏆 Projetos Destacados
+### 🚀 Habilidades Técnicas
 
-- [Projeto do curso - Angular: O Guia Definitivo das Principais Funcionalidades - by Felipe da Silva Freitas - Udemy ](https://github.com/Domzera/User-Filter): Esse é o primeiro projeto que faz parte do curso. Nele você tem uma lista de usuários cadastrados e pode filtra-los por Nome, Data de cadastro e Status ou por qualquer combinação dos filtros.
-- [RunGrouWebApp ](https://github.com/Domzera/RunGroupWebApp): Esse é um WebApp para formar grupos de pessoas que querem correr juntas, aqui eu usei MVC com Interface e Repositórios, esse foi meu primeiro passo para enteder e criar APIs. Foi um tutorial ministrado pelo Teddy Smyth no YouTube também.
-- [LocalWise](https://github.com/Domzera/LocalWise): Meu projeto de conclusão de curso na faculdade, aqui eu usei tudo o que aprendi durante o curso e nas pesquisas extras para fazer ele funcionar. O projeto acabou ficando muito grande para terminar mas eu fui capaz de demonstrar para os professores da banca o que eu aprendi e o que eu fui buscar fora da faculdade para chegar ao resultado final. Apesar de não ter terminado esse é o projeto que eu mais gosto.
+**Linguagens:** C#
 
+**Backend:** ASP.NET, Minimal API (EF Core / Native AOT), API REST
 
-A demais, sou casado e tenho duas filhas, sempre coloquei minha familia a frente e por isso ainda não consegui mudar de carreira, mas sei que tenho o apoio delas e não vou desistir de tentar.
+**Banco de dados:** SQL Server, PostgreSQL
 
- 😊
+**Frontend:** Angular, Angular Material, Bootstrap, SCSS, Flutter
+
+**Ferramentas:** Git, GitHub, Visual Studio, VS Code
+
+### 🏆 Projetos em destaque
+
+- **[AOT-Native](https://github.com/Domzera/AOT-Native)** — API de CRUD de usuários explorando **Native AOT compilation** e **Minimal APIs** no .NET, com autenticação JWT e PostgreSQL. Projeto 100% autoral, feito para entender na prática por que Native AOT exige abrir mão de Controllers/MVC em favor de Minimal APIs.
+- **[LocalWise](https://github.com/Domzera/LocalWise)** — Trabalho de Conclusão de Curso. Reuni tudo que aprendi na faculdade e em pesquisas extras para colocá-lo em prática. Ficou grande demais para terminar no prazo, mas é o projeto que mais me orgulha, pelo tanto que exigiu de mim.
+- **[RunGroupWebApp](https://github.com/Domzera/RunGroupWebApp)** — WebApp para formar grupos de corrida, com MVC + Interfaces + Repositórios. Meu primeiro passo real para entender e construir APIs (tutorial de Teddy Smith).
+- **Projeto do curso de Angular** (Felipe da Silva Freitas, Udemy) — lista de usuários com filtros combináveis por nome, data de cadastro e status.
+
+### 📫 Contato
+
+[LinkedIn](https://linkedin.com/in/luizceliogf) · [GitHub](https://github.com/Domzera)
+
+---
+
+## 🇺🇸 English
+
+### 👋 About me
+
+I've always liked programming, and even before starting my degree in Systems Analysis and Development at FATEC Guaratinguetá, I was already teaching myself a few things out of curiosity. During college, I got exposed to several areas of development, and picking just one wasn't easy — but I found real clarity about the path I wanted when we started working on our capstone project.
+
+I'm balancing this career transition with being a father of two — which has only sharpened my discipline, time management, and commitment to what I set out to learn.
+
+I'm currently looking for a real opportunity to put what I've learned into practice and, just as importantly, **to keep learning alongside a team of more experienced developers** — being close to people who've already faced the challenges ahead of me is where I grow fastest.
+
+### 📚 Always learning
+
+I keep a course or personal project running to go deeper into the stack below — most recently exploring **Native AOT compilation** and **Minimal APIs** in .NET, while continuing to build with Angular and Flutter.
+
+### 🚀 Tech Stack
+
+**Languages:** C#
+
+**Backend:** ASP.NET, Minimal API (EF Core / Native AOT), REST API
+
+**Databases:** SQL Server, PostgreSQL
+
+**Frontend:** Angular, Angular Material, Bootstrap, SCSS, Flutter
+
+**Tools:** Git, GitHub, Visual Studio, VS Code
+
+### 🏆 Featured Projects
+
+- **[AOT-Native](https://github.com/Domzera/AOT-Native)** — A user CRUD API exploring **Native AOT compilation** and **Minimal APIs** in .NET, with JWT authentication and PostgreSQL. A fully self-driven project built to understand, hands-on, why Native AOT means trading Controllers/MVC for Minimal APIs.
+- **[LocalWise](https://github.com/Domzera/LocalWise)** — My capstone project. I brought together everything I learned in college and through extra research to make it work. It grew too large to fully finish in time, but it's the project I'm proudest of, for everything it demanded from me.
+- **[RunGroupWebApp](https://github.com/Domzera/RunGroupWebApp)** — A web app for forming running groups, built with MVC + Interfaces + Repositories. My first real step into understanding and building APIs (tutorial by Teddy Smith).
+- **Angular course project** (Felipe da Silva Freitas, Udemy) — a user list with combinable filters by name, registration date, and status.
+
+### 📫 Contact
+
+[LinkedIn](https://linkedin.com/in/luizceliogf) · [GitHub](https://github.com/Domzera)
