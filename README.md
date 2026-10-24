@@ -42,7 +42,7 @@ Estou sempre com algum curso ou projeto pessoal em andamento para aprofundar a s
 
 - **[AOT-Native](https://github.com/Domzera/AOT-Native)** — API de CRUD de usuários explorando **Native AOT compilation** e **Minimal APIs** no .NET, com autenticação JWT e PostgreSQL. Projeto 100% autoral, feito para entender na prática por que Native AOT exige abrir mão de Controllers/MVC em favor de Minimal APIs.
 - **[LocalWise](https://github.com/Domzera/LocalWise)** — Trabalho de Conclusão de Curso. Reuni tudo que aprendi na faculdade e em pesquisas extras para colocá-lo em prática. Ficou grande demais para terminar no prazo, mas é o projeto que mais me orgulha, pelo tanto que exigiu de mim.
-- **[Site Catalogo - Polimedica do vale]([https://github.com/Domzera/Polimedica_Site](https://github.com/Domzera/Site_Polimedica))** — Desenvolvi o site catalogo com a possibilidade de se tornar site de vendas no futuro. Este site tem controle de usuários e categoria de produtos com fotos.
+- **[Site Catalogo - Polimedica do vale](https://github.com/Domzera/Site_Polimedica)** — Desenvolvi o site catalogo com a possibilidade de se tornar site de vendas no futuro. Este site tem controle de usuários e categoria de produtos com fotos.
 
 ### 📫 Contato
 
@@ -80,7 +80,7 @@ I keep a course or personal project running to go deeper into the stack below �
 
 - **[AOT-Native](https://github.com/Domzera/AOT-Native)** — A user CRUD API exploring **Native AOT compilation** and **Minimal APIs** in .NET, with JWT authentication and PostgreSQL. A fully self-driven project built to understand, hands-on, why Native AOT means trading Controllers/MVC for Minimal APIs.
 - **[LocalWise](https://github.com/Domzera/LocalWise)** — My capstone project. I brought together everything I learned in college and through extra research to make it work. It grew too large to fully finish in time, but it's the project I'm proudest of, for everything it demanded from me.
-- **[Product Catalog Website]([https://github.com/Domzera/Polimedica_Site](https://github.com/Domzera/Site_Polimedica))** - Polimedica do Vale — I developed this catalog website with the potential to expand into an e-commerce platform in the future. It features user authentication and product categorization with images.
+- **[Product Catalog Website](https://github.com/Domzera/Site_Polimedica)** - Polimedica do Vale — I developed this catalog website with the potential to expand into an e-commerce platform in the future. It features user authentication and product categorization with images.
 
 ### 📫 Contact
 
