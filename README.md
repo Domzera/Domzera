@@ -46,7 +46,7 @@ Estou sempre com algum curso ou projeto pessoal em andamento para aprofundar a s
 
 ### 馃摣 Contato
 
-[LinkedIn](https://linkedin.com/in/luizceliogf) 路 [GitHub](https://github.com/Domzera)
+[LinkedIn](https://www.linkedin.com/in/luiz-cgomes/?isSelfProfile=true) 路 [GitHub](https://github.com/Domzera)
 
 ---
 
@@ -84,4 +84,4 @@ I keep a course or personal project running to go deeper into the stack below 鈥
 
 ### 馃摣 Contact
 
-[LinkedIn](https://linkedin.com/in/luizceliogf) 路 [GitHub](https://github.com/Domzera)
+[LinkedIn](https://www.linkedin.com/in/luiz-cgomes/?isSelfProfile=true) 路 [GitHub](https://github.com/Domzera)
